@@ -1,5 +1,5 @@
 # shipattack
-Visual Basic game inspired by Battleship.
+Visual Basic game inspired by Battleship (game).
 
 Created this in High School (not very efficient) and will be improved when I get the opportunity. For example, the computer picks random grid positions even after finding the square of a boat and I've repeated code.
   
