@@ -1,7 +1,7 @@
 # shipattack
 Visual Basic game inspired by Battleship (game).
 
-Created this in High School (not very efficient) and will be improved when I get the opportunity.
+Created this in High School (not very efficient) and will be improved when I get the opportunity to.
   
 Can be used with EasyPHP Devserver to make the leaderboard available. 
 
